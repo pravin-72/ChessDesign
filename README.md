@@ -1,4 +1,4 @@
-## ChessDesign# Chess Board Design - HTML & CSS
+## Chess Board Design - HTML & CSS
 
 ## Description:
 Explore the elegance of chess with this meticulously crafted Chess Board Design created using HTML and CSS. Immerse yourself in the world of strategic moves and checkmate scenarios while enjoying the clean and visually appealing layout of this chess board.
